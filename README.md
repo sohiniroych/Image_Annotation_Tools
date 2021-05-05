@@ -1,6 +1,6 @@
 # Image_Annotation_Tools
 1. Use the Code above to create bounding boxes within Google Colab.
-2. To replicate the YOutube video, use the images in the 'images' folder. To get the actual retinal image data download from https://cecas.clemson.edu/~ahoover/stare/
+2. To replicate the YOutube video, use the images in the `jpgs' folder. To get the actual retinal image data download from https://cecas.clemson.edu/~ahoover/stare/
 3. To annotate using VGG Annotator use the demo: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
 
 # Other Annotation systems include 
